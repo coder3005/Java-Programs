@@ -11,7 +11,7 @@ class A
         System.out.println("asList() "+Arrays.asList(a));
 
         int arr[][]={{10,20},{30,40}};
-        System.out.println("deeptoString() "+Arrays.deepToString(a));
+        System.out.println("deeptoString() "+Arrays.deepToString(arr));
        
     }
 }
